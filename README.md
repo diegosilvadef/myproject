@@ -1,2 +1,2 @@
 # myproject
-Simple project
+Projeto simples da Pós Graduação
